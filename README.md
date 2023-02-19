@@ -4,10 +4,9 @@
 
 # Topics in ML
 ## Concepts
-1. Loss function 
+1. Loss function
 2. Over-fitting, and under-fitting
 3. Optimization
-4. 
 5. Gradient
 6. Learning rate
 7. Hyperparameter (tuning)
@@ -23,8 +22,8 @@
 2. Naive Bayes
 3. Logistic Regression classifiers
 4. k-Nearest Neighbor (kNN)
-5. Decision tree classifiers
-6. Regression trees
+5. Decision tree
+6. Regression
 
 ## Unsupervised Learning
 1. Clustering
