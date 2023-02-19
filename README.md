@@ -59,8 +59,12 @@
 
 
 # Conferences on ML
-1. [AAAI](https://aaai.org/conference/aaai/)
-2. [NeurIPS](https://neurips.cc/)
+1. [AISTATS](http://aistats.org/aistats2023/)
+2. [ICLR](https://iclr.cc/)
+3. [AAAI](https://aaai.org/conference/aaai/)
+4. [NeurIPS](https://nips.cc/)
+5. [ICML](https://icml.cc/)
+6. [KDD](https://kdd.org/conferences)
 
 
 
