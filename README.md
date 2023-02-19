@@ -4,22 +4,27 @@
 
 # Topics in ML
 ## Concepts
-1. Loss function
-2. Bias and variance
-3. Over-fitting, and under-fitting
-4. Optimization
-5. Gradient
-6. Learning rate
-7. Hyperparameter (tuning)
-8. Forward and backward propagation
-9. Weights (parameter)
-10. Weight update
-11. Activation function 
-12. Separability
-13. Margin
-14. Normalization
-15. Regularization
-16. Classification
+1. Training and test data
+2. Loss function
+3. Emperical Loss Minimization (ERM)
+4. Bias and variance
+5. Over-fitting, and under-fitting
+6. Empirical error vs. Generalization error
+7. Optimization
+8. Gradient
+9. Learning rate
+10. Hyperparameter (tuning)
+11. Forward and backward propagation
+12. Weights (parameter)
+13. Weight update
+14. Activation function 
+15. Separability
+16. Linear and non-linearity
+17. Margin
+18. Normalization
+19. Regularization
+20. Classification
+21. Perceptron
 
 
 ## Supervised Learning
@@ -38,6 +43,15 @@
 
 
 ## Reinforcement Learning
+
+
+## Deep Learning
+1. Feedforward Neural Network
+2. Convolutional Neural Network (CNN)
+3. Recurrent Neural Network (RNN)
+4. Graph Neural Network (GNN)
+5. Generative Adversarial Networks (GAN)
+6. Neural Architecture Search (NAS)
 
 
 # Books on Machine Learning
