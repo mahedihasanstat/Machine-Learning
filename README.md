@@ -7,14 +7,15 @@
 1. Loss function 
 2. Over-fitting, and under-fitting
 3. Optimization
-4. Gradient
-5. Learning rate
-6. Hyperparameter (tuning)
-7. Forward and backward propagation
-8. Weights (parameter)
-9. Weight update
-10. Activation function 
-11. 
+4. 
+5. Gradient
+6. Learning rate
+7. Hyperparameter (tuning)
+8. Forward and backward propagation
+9. Weights (parameter)
+10. Weight update
+11. Activation function 
+12. 
 
 
 ## Supervised Learning
