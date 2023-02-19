@@ -60,6 +60,7 @@
 
 # Conferences on ML
 1. [AAAI](https://aaai.org/conference/aaai/)
+2. [NeurIPS](https://neurips.cc/)
 
 
 
