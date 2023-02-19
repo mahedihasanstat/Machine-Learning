@@ -60,7 +60,7 @@
 
 # Conferences on ML
 1. [AISTATS](http://aistats.org/aistats2023/)
-2. [ICLR](https://iclr.cc/)
+2. [ International Conference on Learning Representations (ICLR)](https://iclr.cc/)
 3. [AAAI](https://aaai.org/conference/aaai/)
 4. [NeurIPS](https://nips.cc/)
 5. [ICML](https://icml.cc/)
