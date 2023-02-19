@@ -10,6 +10,11 @@
 4. Gradient
 5. Learning rate
 6. Hyperparameter (tuning)
+7. Forward and backward propagation
+8. Weights (parameter)
+9. Weight update
+10. Activation function 
+11. 
 
 
 ## Supervised Learning
