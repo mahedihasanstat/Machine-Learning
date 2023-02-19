@@ -65,7 +65,8 @@
 4. [Association for the Advancement of Artificial Intelligence (AAAI)](https://aaai.org/conference/aaai/)
 5. [Neural Information Processing Systems (NeurIPS)](https://nips.cc/)
 6. [International Conference on Machine Learning (ICML)](https://icml.cc/)
-7. [Knowledge Discovery in Databases (KDD)](https://kdd.org/conferences)
+7. [International Conference on Data Mining (ICDM)](https://icdm22.cse.usf.edu/)
+8. [Knowledge Discovery in Databases (KDD)](https://kdd.org/conferences)
 
 
 
