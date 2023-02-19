@@ -12,8 +12,9 @@
 6. Regression trees
 
 ## Unsupervised Learning
-1. K-Means clustering
-2. 
+1. Clustering
+2.  fdaklf
+3. Principal Component Analysis (PCA)
 
 ## Active Learning
 
