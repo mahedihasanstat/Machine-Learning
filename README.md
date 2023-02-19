@@ -3,6 +3,15 @@
 
 
 # Topics in ML
+## Supervised Learning
+
+## Unsupervised Learning
+
+
+## Active Learning
+
+
+## Reinforcement Learning
 
 
 # Books on Machine Learning
