@@ -3,8 +3,17 @@
 
 
 # Topics in ML
+## Concepts
+1. Loss function 
+2. Over-fitting, and under-fitting
+3. Optimization
+4. Gradient
+5. Learning rate
+6. Hyperparameter (tuning)
+
+
 ## Supervised Learning
-1. Support Vector Machines (SVMs) and Kernel methods
+1. Support Vector Machines (SVM)
 2. Naive Bayes
 3. Logistic Regression classifiers
 4. k-Nearest Neighbor (kNN)
@@ -13,8 +22,7 @@
 
 ## Unsupervised Learning
 1. Clustering
-2.  fdaklf
-3. Principal Component Analysis (PCA)
+2. Principal Component Analysis (PCA)
 
 ## Active Learning
 
