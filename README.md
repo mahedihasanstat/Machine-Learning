@@ -59,12 +59,13 @@
 
 
 # Conferences on ML
-1. [AISTATS](http://aistats.org/aistats2023/)
-2. [ International Conference on Learning Representations (ICLR)](https://iclr.cc/)
-3. [AAAI](https://aaai.org/conference/aaai/)
-4. [NeurIPS](https://nips.cc/)
-5. [ICML](https://icml.cc/)
-6. [KDD](https://kdd.org/conferences)
+1. [Artificial Intelligence and Statistics Conference (AISTAT)](http://aistats.org/aistats2023/)
+2. [Computer Vision and Pattern Recognition (CVPR)](https://cvpr2023.thecvf.com/)
+3. [International Conference on Learning Representations (ICLR)](https://iclr.cc/)
+4. [Association for the Advancement of Artificial Intelligence (AAAI)](https://aaai.org/conference/aaai/)
+5. [Neural Information Processing Systems (NeurIPS)](https://nips.cc/)
+6. [International Conference on Machine Learning (ICML)](https://icml.cc/)
+7. [Knowledge Discovery in Databases (KDD)](https://kdd.org/conferences)
 
 
 
