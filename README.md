@@ -5,8 +5,9 @@
 # Topics in ML
 ## Concepts
 1. Loss function
-2. Over-fitting, and under-fitting
-3. Optimization
+2. Bias and variance
+3. Over-fitting, and under-fitting
+4. Optimization
 5. Gradient
 6. Learning rate
 7. Hyperparameter (tuning)
@@ -14,7 +15,11 @@
 9. Weights (parameter)
 10. Weight update
 11. Activation function 
-12. 
+12. Separability
+13. Margin
+14. Normalization
+15. Regularization
+16. Classification
 
 
 ## Supervised Learning
